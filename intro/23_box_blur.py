@@ -1,4 +1,4 @@
-# https://app.codesignal.com/arcade/intro/level-5/5xPitc3yT3dqS7XkP/solutions
+# https://app.codesignal.com/arcade/intro/level-5/5xPitc3yT3dqS7XkP
 
 def box_blur_v1(image):
     rows = len(image)
